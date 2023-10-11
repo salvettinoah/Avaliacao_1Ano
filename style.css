@@ -31,7 +31,7 @@ height: 120px;
 
 }
 .cabecalho{
-    background-color: red;
+    background-color: rgb(7, 214, 214);
 }
 .lista_cabecalho{
 display: flex;
